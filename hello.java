@@ -1,5 +1,6 @@
 class Student{
   int id;
+  //名字
   String name;
   public Student(){
   }
